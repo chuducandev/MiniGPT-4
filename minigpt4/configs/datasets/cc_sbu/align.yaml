@@ -2,4 +2,4 @@ datasets:
   cc_sbu_align:
     data_type: images
     build_info:
-      storage: dataset/train_dataset_01
+      storage: dataset/train_pokemon_dataset
