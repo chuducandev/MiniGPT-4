@@ -5,7 +5,7 @@ model:
   end_sym: "###"
   low_resource: False
   prompt_template: '###Human: {} ###Assistant: '
-  ckpt: 'finetuned_first_gen_pokemon_minigpt4_7b_01.pth'
+  ckpt: 'finetuned_first_gen_pokemon_minigpt4_7b_02.pth'
 
 
 datasets:
