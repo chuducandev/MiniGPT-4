@@ -15,7 +15,7 @@ model:
   # generation configs
   prompt: ""
 
-  llama_model: "/content/drive/MyDrive/MiniGPT-4/vicuna-13b"
+  llama_model: "/content/drive/MyDrive/MiniGPT-4/vicuna"
 
 preprocess:
     vis_processor:

@@ -6,7 +6,7 @@ model:
   end_sym: "###"
   prompt_path: "prompts/alignment.txt"
   prompt_template: '###Human: {} ###Assistant: '
-  ckpt: 'pretrained_minigpt4_13b.pth'
+  ckpt: 'finetuned_first_gen_pokemon_minigpt4_7b_01.pth'
 
 
 datasets:
